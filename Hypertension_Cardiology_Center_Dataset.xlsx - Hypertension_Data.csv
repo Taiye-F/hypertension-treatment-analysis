@@ -1,0 +1,351 @@
+Patient_ID,Age,Gender,Diabetes_Mellitus,Chronic_Kidney_Disease,Dyslipidemia,Obesity,Baseline_Systolic_BP,Baseline_Diastolic_BP,Antihypertensive_Class,Medication_Adherence,Followup_Systolic_BP,Followup_Diastolic_BP,BP_Controlled_After_3_Months,Number_of_Visits,Registration_Date
+HTN0001,70,Male,Yes,No,Yes,Yes,148,113,ACE Inhibitor,Poor,142,110,No,1,2024-01-16
+HTN0002,35,Male,Yes,Yes,Yes,No,154,104,Beta Blocker,Moderate,144,98,No,3,2024-05-22
+HTN0003,39,Male,No,Yes,Yes,No,146,101,Calcium Channel Blocker,Poor,139,97,No,5,2024-03-04
+HTN0004,54,Male,No,No,Yes,Yes,142,111,ARB,Moderate,131,105,No,4,2024-05-22
+HTN0005,59,Female,Yes,No,No,Yes,182,98,Combination Therapy,Poor,166,89,No,5,2024-05-05
+HTN0006,40,Female,No,No,Yes,No,189,114,ACE Inhibitor,Good,173,105,No,3,2024-02-03
+HTN0007,43,Female,Yes,No,No,No,149,98,ARB,Good,126,85,Yes,5,2024-07-23
+HTN0008,53,Male,Yes,No,Yes,Yes,147,94,Combination Therapy,Good,111,73,Yes,4,2024-11-01
+HTN0009,59,Female,Yes,Yes,No,No,147,99,Thiazide Diuretic,Good,118,82,Yes,5,2024-04-01
+HTN0010,62,Male,No,Yes,Yes,No,188,95,Beta Blocker,Poor,183,92,No,4,2024-01-10
+HTN0011,37,Female,No,Yes,Yes,Yes,176,120,ACE Inhibitor,Good,146,102,No,2,2024-03-06
+HTN0012,72,Female,Yes,No,No,Yes,174,114,Combination Therapy,Poor,158,105,No,6,2024-07-10
+HTN0013,58,Female,Yes,Yes,Yes,Yes,161,90,Beta Blocker,Poor,158,89,No,1,2024-02-06
+HTN0014,75,Male,Yes,Yes,Yes,No,144,106,ARB,Moderate,133,100,No,2,2024-10-19
+HTN0015,66,Female,Yes,No,No,Yes,146,93,Combination Therapy,Moderate,124,80,Yes,6,2024-01-28
+HTN0016,73,Male,Yes,No,No,Yes,155,96,ARB,Poor,149,93,No,2,2024-05-22
+HTN0017,59,Male,Yes,No,Yes,Yes,181,107,ACE Inhibitor,Good,159,94,No,4,2024-09-03
+HTN0018,43,Female,Yes,Yes,No,Yes,164,98,Thiazide Diuretic,Moderate,148,89,No,6,2024-09-06
+HTN0019,39,Male,No,Yes,Yes,Yes,187,100,ACE Inhibitor,Good,157,82,No,2,2024-01-30
+HTN0020,62,Male,Yes,Yes,Yes,Yes,165,93,Beta Blocker,Good,149,84,No,4,2024-12-02
+HTN0021,67,Female,No,Yes,No,Yes,156,102,ARB,Poor,151,99,No,1,2024-01-05
+HTN0022,59,Male,Yes,Yes,No,Yes,162,118,ACE Inhibitor,Good,136,103,No,4,2024-10-05
+HTN0023,75,Female,Yes,No,Yes,Yes,156,93,ACE Inhibitor,Poor,152,91,No,5,2024-04-17
+HTN0024,75,Female,Yes,No,No,No,143,92,Combination Therapy,Moderate,128,83,Yes,2,2024-11-22
+HTN0025,46,Male,No,No,Yes,Yes,144,120,Combination Therapy,Good,119,105,No,2,2024-08-08
+HTN0026,38,Male,No,No,Yes,No,153,111,ARB,Poor,145,107,No,4,2024-11-13
+HTN0027,77,Male,Yes,Yes,Yes,No,141,95,Combination Therapy,Moderate,116,80,Yes,2,2024-12-25
+HTN0028,36,Female,Yes,No,Yes,Yes,169,101,Calcium Channel Blocker,Good,147,88,No,2,2024-07-23
+HTN0029,51,Female,Yes,No,No,No,183,116,Beta Blocker,Moderate,174,111,No,2,2024-10-24
+HTN0030,46,Male,Yes,No,No,No,167,109,Beta Blocker,Good,140,93,No,3,2024-01-23
+HTN0031,75,Female,Yes,Yes,No,No,144,120,Combination Therapy,Moderate,116,104,No,3,2024-09-16
+HTN0032,49,Female,No,No,No,Yes,152,103,Combination Therapy,Moderate,128,89,Yes,4,2024-10-07
+HTN0033,83,Male,No,No,Yes,No,190,108,Beta Blocker,Poor,183,104,No,4,2024-12-11
+HTN0034,43,Female,Yes,Yes,No,No,145,116,ARB,Poor,142,115,No,2,2024-01-13
+HTN0035,32,Male,No,Yes,No,No,180,108,ARB,Poor,174,105,No,2,2024-03-16
+HTN0036,71,Male,Yes,No,Yes,Yes,184,106,Thiazide Diuretic,Good,162,93,No,2,2024-08-25
+HTN0037,72,Female,No,No,No,Yes,187,117,Thiazide Diuretic,Moderate,176,111,No,3,2024-09-23
+HTN0038,61,Male,No,No,Yes,No,155,98,Calcium Channel Blocker,Moderate,145,92,No,2,2024-07-15
+HTN0039,74,Male,Yes,Yes,No,No,161,107,Thiazide Diuretic,Moderate,150,101,No,4,2024-10-26
+HTN0040,74,Male,No,No,Yes,No,159,114,Thiazide Diuretic,Moderate,144,105,No,3,2024-08-11
+HTN0041,61,Male,No,No,No,Yes,169,119,ARB,Poor,160,114,No,5,2024-12-05
+HTN0042,31,Male,No,Yes,No,Yes,143,98,Thiazide Diuretic,Moderate,128,89,Yes,3,2024-07-13
+HTN0043,47,Female,No,Yes,No,Yes,187,107,ACE Inhibitor,Moderate,169,97,No,6,2024-01-21
+HTN0044,78,Male,Yes,Yes,Yes,Yes,155,94,Thiazide Diuretic,Poor,152,93,No,4,2024-12-24
+HTN0045,46,Female,Yes,Yes,Yes,No,146,108,ACE Inhibitor,Moderate,132,100,No,1,2024-10-30
+HTN0046,74,Male,Yes,No,Yes,Yes,162,107,Thiazide Diuretic,Poor,154,103,No,6,2024-06-23
+HTN0047,30,Female,No,Yes,No,No,180,118,Thiazide Diuretic,Poor,178,117,No,6,2024-09-24
+HTN0048,71,Female,No,No,No,No,160,117,ARB,Good,137,104,No,4,2024-10-18
+HTN0049,69,Female,No,Yes,No,No,151,105,ARB,Moderate,138,98,No,5,2024-12-25
+HTN0050,47,Male,Yes,Yes,Yes,No,171,107,ARB,Poor,164,103,No,4,2024-01-09
+HTN0051,35,Female,Yes,No,Yes,No,182,108,Calcium Channel Blocker,Moderate,168,100,No,3,2024-06-29
+HTN0052,74,Female,No,No,No,Yes,147,113,ARB,Moderate,131,104,No,2,2024-04-20
+HTN0053,77,Female,No,No,Yes,Yes,158,97,Calcium Channel Blocker,Good,134,83,Yes,2,2024-05-20
+HTN0054,32,Male,No,Yes,No,Yes,140,108,Calcium Channel Blocker,Moderate,125,99,No,2,2024-01-27
+HTN0055,46,Female,Yes,Yes,No,No,144,108,Combination Therapy,Poor,133,102,No,3,2024-02-13
+HTN0056,45,Male,No,Yes,No,No,168,99,Beta Blocker,Moderate,151,89,No,1,2024-11-08
+HTN0057,77,Male,Yes,Yes,No,Yes,150,97,ARB,Poor,150,97,No,4,2024-08-18
+HTN0058,74,Female,No,Yes,Yes,No,185,99,Combination Therapy,Moderate,160,84,No,6,2024-10-28
+HTN0059,72,Male,No,Yes,Yes,Yes,157,116,ARB,Good,141,107,No,5,2024-10-18
+HTN0060,48,Female,Yes,No,No,No,157,106,Beta Blocker,Moderate,148,101,No,1,2024-08-09
+HTN0061,77,Female,No,Yes,Yes,Yes,183,116,Beta Blocker,Poor,179,114,No,5,2024-01-21
+HTN0062,78,Male,No,No,No,Yes,177,103,Combination Therapy,Moderate,154,90,No,3,2024-06-13
+HTN0063,72,Male,Yes,No,No,No,158,111,Thiazide Diuretic,Poor,157,111,No,3,2024-05-09
+HTN0064,50,Male,No,Yes,No,No,143,96,Beta Blocker,Moderate,125,86,Yes,1,2024-04-14
+HTN0065,47,Male,No,No,No,Yes,141,110,Beta Blocker,Good,121,98,No,1,2024-10-09
+HTN0066,56,Male,Yes,Yes,No,Yes,181,116,ARB,Moderate,165,107,No,4,2024-09-04
+HTN0067,60,Male,No,Yes,No,Yes,178,106,Combination Therapy,Good,154,92,No,5,2024-05-16
+HTN0068,82,Male,No,No,No,Yes,168,107,Thiazide Diuretic,Moderate,152,98,No,4,2024-08-21
+HTN0069,50,Male,Yes,No,Yes,No,142,100,Combination Therapy,Moderate,118,86,Yes,2,2024-09-10
+HTN0070,32,Male,No,Yes,No,Yes,173,119,Thiazide Diuretic,Good,154,108,No,2,2024-02-08
+HTN0071,60,Female,No,No,Yes,No,183,117,Beta Blocker,Moderate,165,107,No,5,2024-01-19
+HTN0072,69,Male,Yes,No,Yes,Yes,167,93,Combination Therapy,Poor,155,86,No,3,2024-01-15
+HTN0073,32,Female,Yes,No,No,No,167,94,ARB,Poor,157,88,No,2,2024-03-28
+HTN0074,41,Male,No,Yes,No,Yes,154,104,Combination Therapy,Moderate,137,94,No,4,2024-05-27
+HTN0075,73,Male,Yes,No,No,No,180,120,Thiazide Diuretic,Poor,176,118,No,2,2024-07-15
+HTN0076,84,Female,Yes,Yes,No,No,176,99,Combination Therapy,Moderate,151,84,No,1,2024-10-16
+HTN0077,85,Male,No,No,Yes,No,154,110,ARB,Poor,144,104,No,6,2024-03-11
+HTN0078,70,Male,Yes,No,No,Yes,177,101,Combination Therapy,Good,150,85,No,4,2024-03-30
+HTN0079,42,Male,No,No,Yes,No,170,120,Calcium Channel Blocker,Poor,163,116,No,1,2024-03-13
+HTN0080,78,Male,No,No,Yes,No,140,98,Beta Blocker,Good,111,81,Yes,6,2024-12-10
+HTN0081,46,Female,No,Yes,Yes,No,141,109,Beta Blocker,Moderate,123,99,No,6,2024-08-25
+HTN0082,74,Female,No,Yes,Yes,Yes,142,99,Thiazide Diuretic,Good,124,89,Yes,2,2024-07-17
+HTN0083,59,Female,No,Yes,No,Yes,171,109,Thiazide Diuretic,Moderate,158,102,No,4,2024-08-15
+HTN0084,45,Female,Yes,No,No,Yes,165,98,ARB,Good,136,81,Yes,2,2024-11-24
+HTN0085,70,Male,Yes,No,Yes,Yes,190,108,ARB,Good,169,96,No,2,2024-06-17
+HTN0086,79,Male,Yes,No,Yes,Yes,174,98,ARB,Good,159,89,No,3,2024-05-01
+HTN0087,67,Female,Yes,Yes,No,Yes,148,113,Thiazide Diuretic,Poor,141,109,No,4,2024-07-04
+HTN0088,62,Male,No,Yes,Yes,No,169,110,ACE Inhibitor,Good,139,92,No,6,2024-02-25
+HTN0089,61,Female,Yes,Yes,No,Yes,144,94,Calcium Channel Blocker,Poor,135,89,Yes,5,2024-05-30
+HTN0090,59,Female,Yes,Yes,Yes,No,168,118,ARB,Moderate,153,109,No,4,2024-02-18
+HTN0091,50,Female,No,No,No,Yes,183,119,Thiazide Diuretic,Good,166,109,No,4,2024-02-19
+HTN0092,77,Female,Yes,Yes,No,Yes,166,101,Combination Therapy,Moderate,147,90,No,3,2024-02-23
+HTN0093,66,Male,Yes,No,Yes,Yes,162,117,Beta Blocker,Moderate,150,110,No,2,2024-08-07
+HTN0094,84,Male,No,Yes,Yes,No,184,114,Calcium Channel Blocker,Moderate,176,110,No,2,2024-10-16
+HTN0095,72,Female,Yes,Yes,Yes,Yes,187,106,ARB,Moderate,172,97,No,2,2024-07-08
+HTN0096,49,Female,Yes,Yes,Yes,Yes,188,109,ACE Inhibitor,Poor,181,105,No,6,2024-08-05
+HTN0097,61,Female,No,No,Yes,Yes,162,103,ACE Inhibitor,Moderate,146,94,No,3,2024-01-24
+HTN0098,44,Female,Yes,Yes,Yes,No,153,114,ARB,Moderate,140,107,No,1,2024-09-11
+HTN0099,77,Female,Yes,Yes,No,Yes,172,107,Combination Therapy,Moderate,150,94,No,1,2024-08-23
+HTN0100,34,Female,No,No,No,No,147,102,ACE Inhibitor,Moderate,130,92,No,6,2024-07-04
+HTN0101,35,Female,Yes,Yes,No,No,173,92,Thiazide Diuretic,Moderate,162,86,No,2,2024-02-09
+HTN0102,62,Male,Yes,No,No,Yes,155,93,ARB,Moderate,145,87,No,2,2024-12-01
+HTN0103,34,Male,No,No,No,No,180,100,ARB,Moderate,165,91,No,6,2024-06-04
+HTN0104,80,Female,Yes,No,Yes,No,169,104,ACE Inhibitor,Good,143,89,No,6,2024-02-16
+HTN0105,69,Female,No,Yes,No,Yes,160,109,Thiazide Diuretic,Poor,153,105,No,1,2024-06-24
+HTN0106,75,Male,Yes,Yes,Yes,No,168,106,Beta Blocker,Poor,163,103,No,3,2024-07-17
+HTN0107,56,Female,Yes,No,Yes,No,146,107,Combination Therapy,Moderate,125,95,No,2,2024-06-19
+HTN0108,35,Male,No,No,No,Yes,178,112,ACE Inhibitor,Moderate,160,102,No,2,2024-12-09
+HTN0109,74,Male,No,No,Yes,No,159,95,ARB,Moderate,148,89,No,2,2024-03-20
+HTN0110,34,Female,Yes,Yes,No,Yes,178,102,ARB,Good,158,90,No,6,2024-08-12
+HTN0111,32,Female,No,Yes,No,No,188,113,Thiazide Diuretic,Good,166,100,No,2,2024-07-07
+HTN0112,73,Female,No,No,No,No,150,116,ARB,Poor,150,116,No,6,2024-09-03
+HTN0113,85,Female,Yes,Yes,No,Yes,188,95,Calcium Channel Blocker,Moderate,174,87,No,2,2024-08-18
+HTN0114,52,Male,No,Yes,No,No,155,102,ACE Inhibitor,Moderate,147,98,No,1,2024-12-31
+HTN0115,71,Female,Yes,Yes,Yes,No,170,112,ARB,Poor,161,107,No,1,2024-02-10
+HTN0116,31,Female,Yes,Yes,No,Yes,189,99,ARB,Moderate,181,95,No,4,2024-11-23
+HTN0117,80,Female,Yes,Yes,No,Yes,180,106,Beta Blocker,Good,161,95,No,1,2024-11-10
+HTN0118,52,Male,No,Yes,Yes,No,144,120,Beta Blocker,Poor,137,116,No,1,2024-11-21
+HTN0119,54,Female,No,Yes,No,Yes,162,97,Combination Therapy,Poor,151,91,No,1,2024-06-29
+HTN0120,64,Female,Yes,No,No,Yes,148,92,Combination Therapy,Moderate,131,82,Yes,2,2024-01-22
+HTN0121,50,Female,No,No,No,Yes,188,110,ARB,Moderate,180,106,No,3,2024-05-19
+HTN0122,37,Female,No,No,No,No,161,95,Thiazide Diuretic,Poor,153,91,No,3,2024-02-12
+HTN0123,76,Female,Yes,No,Yes,No,160,93,ACE Inhibitor,Moderate,148,86,No,5,2024-08-06
+HTN0124,40,Female,No,No,Yes,No,179,103,Calcium Channel Blocker,Poor,169,97,No,6,2024-07-26
+HTN0125,53,Male,Yes,Yes,No,Yes,148,92,ARB,Poor,142,89,No,5,2024-01-17
+HTN0126,68,Male,No,No,No,No,188,92,Beta Blocker,Good,162,77,No,6,2024-05-22
+HTN0127,45,Male,Yes,Yes,No,No,175,93,Calcium Channel Blocker,Moderate,164,87,No,3,2024-12-21
+HTN0128,61,Male,Yes,Yes,Yes,No,151,118,Combination Therapy,Moderate,123,102,No,3,2024-12-29
+HTN0129,34,Female,No,Yes,Yes,No,172,97,ACE Inhibitor,Good,153,86,No,1,2024-07-03
+HTN0130,65,Female,No,Yes,Yes,Yes,159,102,Combination Therapy,Poor,145,94,No,5,2024-02-07
+HTN0131,38,Female,Yes,No,No,No,148,118,Beta Blocker,Poor,142,115,No,5,2024-01-29
+HTN0132,83,Male,Yes,No,Yes,Yes,160,119,Combination Therapy,Good,129,101,No,3,2024-04-10
+HTN0133,70,Female,Yes,No,Yes,Yes,177,120,Beta Blocker,Good,157,108,No,6,2024-11-05
+HTN0134,51,Male,Yes,Yes,Yes,No,181,96,Beta Blocker,Moderate,166,87,No,5,2024-05-28
+HTN0135,71,Female,No,Yes,No,No,169,92,Combination Therapy,Good,141,76,No,4,2024-04-14
+HTN0136,51,Male,No,No,No,No,148,114,Calcium Channel Blocker,Poor,145,113,No,4,2024-03-03
+HTN0137,47,Female,Yes,Yes,Yes,Yes,158,120,Thiazide Diuretic,Poor,156,119,No,3,2024-10-22
+HTN0138,76,Female,Yes,Yes,No,No,171,118,Calcium Channel Blocker,Moderate,162,113,No,5,2024-08-22
+HTN0139,45,Male,No,Yes,Yes,No,171,109,Combination Therapy,Poor,158,102,No,1,2024-08-08
+HTN0140,38,Female,No,No,No,Yes,165,91,Beta Blocker,Poor,157,87,No,3,2024-02-07
+HTN0141,54,Female,No,Yes,Yes,Yes,165,101,Calcium Channel Blocker,Poor,162,100,No,5,2024-09-17
+HTN0142,55,Male,Yes,Yes,Yes,No,170,106,Thiazide Diuretic,Good,151,95,No,3,2024-03-24
+HTN0143,55,Female,No,No,No,No,141,101,Calcium Channel Blocker,Poor,132,96,No,3,2024-12-18
+HTN0144,70,Male,No,No,Yes,Yes,177,105,ARB,Poor,167,99,No,2,2024-01-17
+HTN0145,66,Male,Yes,Yes,No,No,166,94,Thiazide Diuretic,Poor,158,90,No,5,2024-08-29
+HTN0146,85,Male,Yes,Yes,No,No,173,102,Calcium Channel Blocker,Good,144,85,No,5,2024-06-30
+HTN0147,73,Female,No,Yes,Yes,No,175,99,ARB,Moderate,164,93,No,3,2024-09-02
+HTN0148,52,Female,No,Yes,No,No,162,120,ARB,Moderate,150,113,No,3,2024-08-14
+HTN0149,71,Female,No,Yes,Yes,No,175,112,Calcium Channel Blocker,Good,157,102,No,2,2024-05-04
+HTN0150,33,Male,Yes,Yes,Yes,No,161,112,Thiazide Diuretic,Good,142,101,No,2,2024-07-27
+HTN0151,71,Female,No,Yes,No,No,158,110,ACE Inhibitor,Good,136,97,No,2,2024-08-01
+HTN0152,83,Male,Yes,No,No,Yes,187,120,Calcium Channel Blocker,Good,172,111,No,5,2024-02-24
+HTN0153,51,Female,No,No,Yes,No,157,96,ACE Inhibitor,Moderate,142,87,No,3,2024-04-05
+HTN0154,30,Female,No,Yes,Yes,No,167,106,Calcium Channel Blocker,Good,140,90,No,2,2024-03-12
+HTN0155,60,Female,Yes,Yes,No,No,155,104,Calcium Channel Blocker,Moderate,138,94,No,1,2024-05-13
+HTN0156,71,Female,Yes,Yes,Yes,No,159,95,Thiazide Diuretic,Poor,149,89,No,3,2024-07-07
+HTN0157,69,Male,Yes,Yes,No,Yes,169,113,Beta Blocker,Moderate,153,104,No,5,2024-12-06
+HTN0158,82,Male,Yes,Yes,No,No,144,119,Beta Blocker,Good,128,110,No,2,2024-10-20
+HTN0159,64,Male,Yes,No,No,Yes,183,96,Combination Therapy,Poor,167,87,No,1,2024-08-20
+HTN0160,38,Female,No,Yes,No,No,186,90,Thiazide Diuretic,Moderate,175,84,No,1,2024-01-24
+HTN0161,57,Female,Yes,Yes,Yes,No,142,99,Thiazide Diuretic,Good,123,88,Yes,4,2024-07-10
+HTN0162,54,Female,No,No,Yes,Yes,181,117,Calcium Channel Blocker,Good,161,105,No,5,2024-03-06
+HTN0163,76,Male,Yes,Yes,No,No,183,113,Beta Blocker,Moderate,172,107,No,4,2024-06-26
+HTN0164,39,Female,Yes,Yes,Yes,No,179,114,ACE Inhibitor,Good,158,102,No,5,2024-01-18
+HTN0165,58,Male,Yes,Yes,No,No,154,107,ARB,Good,135,96,No,2,2024-10-21
+HTN0166,50,Female,Yes,No,Yes,Yes,166,99,Calcium Channel Blocker,Good,146,87,No,4,2024-10-11
+HTN0167,61,Male,No,No,No,No,166,94,Calcium Channel Blocker,Moderate,150,85,No,2,2024-04-25
+HTN0168,49,Male,No,Yes,No,No,175,106,ARB,Moderate,163,99,No,3,2024-11-27
+HTN0169,35,Female,No,Yes,Yes,Yes,157,102,Combination Therapy,Poor,145,95,No,6,2024-12-09
+HTN0170,65,Male,No,Yes,No,No,140,96,ARB,Poor,137,95,No,6,2024-11-05
+HTN0171,75,Male,No,Yes,No,No,164,104,Beta Blocker,Poor,160,102,No,3,2024-09-19
+HTN0172,61,Female,Yes,No,No,Yes,163,100,Thiazide Diuretic,Good,141,87,No,3,2024-10-10
+HTN0173,67,Female,No,Yes,Yes,No,154,102,Beta Blocker,Good,124,84,Yes,6,2024-06-21
+HTN0174,46,Female,No,No,Yes,No,150,94,Combination Therapy,Poor,132,84,Yes,1,2024-09-25
+HTN0175,32,Male,Yes,Yes,No,Yes,180,97,ACE Inhibitor,Poor,177,96,No,5,2024-08-21
+HTN0176,53,Male,No,No,Yes,Yes,174,107,Thiazide Diuretic,Good,159,98,No,5,2024-05-26
+HTN0177,31,Female,Yes,Yes,Yes,Yes,155,96,Beta Blocker,Poor,151,94,No,4,2024-02-10
+HTN0178,53,Female,No,Yes,Yes,No,183,116,ACE Inhibitor,Poor,177,113,No,4,2024-07-12
+HTN0179,65,Female,Yes,Yes,Yes,Yes,171,117,Thiazide Diuretic,Poor,170,117,No,5,2024-01-22
+HTN0180,44,Male,No,No,Yes,Yes,183,119,Calcium Channel Blocker,Poor,178,116,No,1,2024-04-16
+HTN0181,67,Male,No,Yes,No,Yes,176,97,Beta Blocker,Moderate,162,89,No,6,2024-02-10
+HTN0182,62,Female,Yes,Yes,No,Yes,144,100,Beta Blocker,Poor,144,100,No,6,2024-05-19
+HTN0183,80,Female,No,Yes,No,No,167,95,Combination Therapy,Poor,151,86,No,2,2024-12-31
+HTN0184,34,Male,No,Yes,No,Yes,187,102,Calcium Channel Blocker,Moderate,178,97,No,3,2024-08-15
+HTN0185,53,Female,Yes,Yes,Yes,Yes,167,104,Beta Blocker,Poor,167,104,No,1,2024-06-30
+HTN0186,65,Male,No,No,Yes,No,166,102,ACE Inhibitor,Poor,158,98,No,2,2024-12-16
+HTN0187,54,Male,Yes,No,No,No,171,94,ACE Inhibitor,Good,143,78,No,3,2024-09-04
+HTN0188,80,Male,No,No,Yes,No,178,109,ARB,Moderate,168,103,No,1,2024-07-21
+HTN0189,51,Female,No,No,No,No,181,109,ARB,Moderate,164,99,No,4,2024-06-09
+HTN0190,41,Female,No,No,No,Yes,160,102,Calcium Channel Blocker,Moderate,151,97,No,2,2024-10-30
+HTN0191,64,Male,Yes,No,Yes,No,158,116,Combination Therapy,Good,124,96,No,6,2024-06-04
+HTN0192,45,Female,Yes,No,No,Yes,168,109,Thiazide Diuretic,Poor,160,105,No,6,2024-08-02
+HTN0193,64,Male,No,Yes,Yes,Yes,182,111,Calcium Channel Blocker,Good,166,102,No,6,2024-11-27
+HTN0194,55,Female,No,Yes,Yes,Yes,156,97,Beta Blocker,Poor,151,94,No,4,2024-08-25
+HTN0195,79,Male,No,Yes,No,Yes,158,103,ACE Inhibitor,Good,139,92,No,3,2024-08-21
+HTN0196,80,Male,No,No,No,Yes,168,113,Combination Therapy,Moderate,154,105,No,6,2024-02-28
+HTN0197,31,Female,Yes,Yes,Yes,Yes,175,95,Calcium Channel Blocker,Poor,172,94,No,4,2024-11-18
+HTN0198,41,Male,No,No,Yes,Yes,168,108,Thiazide Diuretic,Moderate,157,102,No,3,2024-12-26
+HTN0199,81,Male,Yes,Yes,No,No,152,104,ACE Inhibitor,Moderate,136,95,No,3,2024-11-01
+HTN0200,54,Female,Yes,No,No,No,179,95,Combination Therapy,Poor,165,87,No,6,2024-03-09
+HTN0201,50,Male,Yes,No,Yes,Yes,163,112,ARB,Poor,154,107,No,2,2024-10-21
+HTN0202,54,Female,Yes,No,Yes,Yes,171,99,ARB,Good,146,84,No,1,2024-07-02
+HTN0203,30,Female,Yes,Yes,No,No,166,111,Thiazide Diuretic,Moderate,151,102,No,1,2024-10-16
+HTN0204,31,Male,No,Yes,No,Yes,174,99,ARB,Moderate,158,90,No,1,2024-10-20
+HTN0205,37,Female,No,Yes,No,Yes,167,93,Combination Therapy,Poor,159,89,No,3,2024-06-27
+HTN0206,85,Male,No,Yes,Yes,Yes,187,108,Combination Therapy,Moderate,171,99,No,2,2024-04-15
+HTN0207,81,Male,No,No,Yes,No,185,99,Calcium Channel Blocker,Poor,175,93,No,1,2024-03-10
+HTN0208,78,Female,Yes,No,Yes,Yes,155,94,Combination Therapy,Moderate,129,79,Yes,2,2024-10-22
+HTN0209,70,Female,No,No,No,Yes,180,115,ACE Inhibitor,Moderate,167,108,No,4,2024-06-16
+HTN0210,67,Male,Yes,No,No,Yes,190,107,Thiazide Diuretic,Good,162,91,No,3,2024-06-14
+HTN0211,83,Female,No,Yes,No,No,183,114,ACE Inhibitor,Good,165,104,No,1,2024-03-04
+HTN0212,84,Male,No,No,Yes,No,152,112,ARB,Poor,148,110,No,1,2024-12-01
+HTN0213,53,Female,Yes,No,Yes,Yes,165,110,Calcium Channel Blocker,Poor,155,104,No,1,2024-12-26
+HTN0214,36,Male,Yes,No,Yes,Yes,177,97,Beta Blocker,Poor,177,97,No,6,2024-06-24
+HTN0215,82,Male,No,Yes,No,Yes,154,102,ACE Inhibitor,Poor,149,99,No,3,2024-06-02
+HTN0216,38,Female,Yes,Yes,Yes,Yes,179,110,ARB,Moderate,168,104,No,6,2024-03-18
+HTN0217,56,Female,Yes,Yes,Yes,Yes,188,93,Beta Blocker,Poor,182,90,No,3,2024-03-12
+HTN0218,45,Female,Yes,Yes,No,Yes,182,118,Calcium Channel Blocker,Good,161,106,No,6,2024-01-28
+HTN0219,80,Male,No,No,Yes,Yes,171,110,Beta Blocker,Good,156,101,No,2,2024-07-17
+HTN0220,85,Female,No,Yes,No,Yes,141,108,ACE Inhibitor,Good,118,95,No,1,2024-07-22
+HTN0221,62,Female,No,No,No,Yes,180,107,Beta Blocker,Poor,179,107,No,3,2024-02-10
+HTN0222,62,Male,Yes,No,No,Yes,159,112,Thiazide Diuretic,Poor,156,111,No,1,2024-08-10
+HTN0223,37,Female,Yes,No,Yes,Yes,140,112,ARB,Poor,133,108,No,3,2024-09-24
+HTN0224,63,Female,Yes,No,Yes,No,186,118,ACE Inhibitor,Good,161,103,No,5,2024-02-02
+HTN0225,46,Male,No,No,No,Yes,171,117,Beta Blocker,Good,145,102,No,1,2024-10-20
+HTN0226,73,Male,Yes,Yes,Yes,Yes,155,91,Thiazide Diuretic,Moderate,145,85,No,1,2024-10-10
+HTN0227,81,Female,Yes,No,Yes,No,186,100,Calcium Channel Blocker,Good,160,85,No,6,2024-01-27
+HTN0228,41,Male,Yes,No,Yes,No,158,114,Calcium Channel Blocker,Moderate,142,105,No,1,2024-07-07
+HTN0229,42,Female,No,Yes,No,No,177,105,ARB,Poor,177,105,No,4,2024-01-13
+HTN0230,44,Female,Yes,No,Yes,No,187,113,Calcium Channel Blocker,Good,166,101,No,4,2024-09-08
+HTN0231,33,Male,No,Yes,Yes,Yes,173,103,Combination Therapy,Moderate,159,95,No,5,2024-03-09
+HTN0232,70,Female,Yes,Yes,No,Yes,155,99,Calcium Channel Blocker,Moderate,142,92,No,4,2024-05-19
+HTN0233,44,Male,Yes,Yes,Yes,Yes,146,95,Thiazide Diuretic,Moderate,132,87,Yes,5,2024-07-02
+HTN0234,79,Male,No,No,No,No,147,92,ARB,Poor,147,92,No,2,2024-06-16
+HTN0235,39,Male,Yes,No,No,Yes,183,99,Calcium Channel Blocker,Good,168,90,No,5,2024-10-08
+HTN0236,45,Male,No,Yes,Yes,Yes,140,91,ARB,Good,119,79,Yes,6,2024-11-18
+HTN0237,71,Male,No,Yes,Yes,Yes,152,118,Combination Therapy,Moderate,138,110,No,1,2024-08-24
+HTN0238,33,Male,No,No,No,Yes,164,111,Thiazide Diuretic,Good,138,96,No,3,2024-05-23
+HTN0239,58,Male,Yes,Yes,No,No,166,118,Beta Blocker,Moderate,157,113,No,4,2024-03-11
+HTN0240,56,Male,Yes,Yes,No,No,170,107,Thiazide Diuretic,Moderate,156,99,No,2,2024-01-14
+HTN0241,50,Male,Yes,No,Yes,No,173,101,Beta Blocker,Good,153,89,No,6,2024-05-03
+HTN0242,47,Male,Yes,No,No,Yes,151,97,Beta Blocker,Moderate,134,87,Yes,6,2024-12-24
+HTN0243,52,Male,Yes,No,No,Yes,171,91,ACE Inhibitor,Good,149,78,No,1,2024-09-26
+HTN0244,60,Male,No,Yes,Yes,No,185,95,Calcium Channel Blocker,Good,170,86,No,6,2024-03-13
+HTN0245,79,Male,No,Yes,No,No,177,93,Calcium Channel Blocker,Moderate,167,87,No,6,2024-08-11
+HTN0246,80,Female,No,Yes,No,Yes,182,108,ARB,Moderate,170,101,No,2,2024-01-01
+HTN0247,74,Female,Yes,Yes,No,Yes,180,108,ACE Inhibitor,Moderate,167,101,No,2,2024-06-26
+HTN0248,50,Male,Yes,No,No,Yes,156,96,ARB,Poor,152,94,No,1,2024-01-01
+HTN0249,33,Female,No,No,Yes,No,171,118,Thiazide Diuretic,Moderate,162,113,No,5,2024-11-29
+HTN0250,78,Male,Yes,No,Yes,Yes,158,90,Calcium Channel Blocker,Moderate,149,85,No,2,2024-07-11
+HTN0251,40,Male,Yes,No,No,Yes,167,120,Combination Therapy,Good,134,101,No,3,2024-04-15
+HTN0252,42,Female,No,No,No,Yes,146,91,Thiazide Diuretic,Poor,146,91,No,3,2024-01-02
+HTN0253,57,Male,No,No,Yes,Yes,141,96,ARB,Poor,134,92,No,1,2024-06-06
+HTN0254,80,Female,No,No,No,Yes,181,107,Thiazide Diuretic,Good,155,92,No,2,2024-08-16
+HTN0255,32,Female,No,No,No,Yes,157,108,ACE Inhibitor,Good,139,98,No,3,2024-10-04
+HTN0256,56,Male,Yes,No,No,No,176,118,ARB,Moderate,167,113,No,6,2024-01-18
+HTN0257,62,Male,Yes,No,Yes,Yes,153,115,ARB,Good,137,106,No,6,2024-08-10
+HTN0258,42,Male,No,No,Yes,Yes,164,107,Thiazide Diuretic,Poor,156,103,No,4,2024-01-07
+HTN0259,80,Female,Yes,No,Yes,Yes,176,108,Beta Blocker,Good,158,98,No,3,2024-10-01
+HTN0260,52,Female,No,No,No,No,142,95,Calcium Channel Blocker,Moderate,125,85,Yes,6,2024-12-21
+HTN0261,55,Male,No,No,Yes,Yes,187,105,Calcium Channel Blocker,Moderate,174,98,No,3,2024-05-23
+HTN0262,83,Female,Yes,Yes,Yes,No,187,104,Calcium Channel Blocker,Moderate,170,94,No,1,2024-04-06
+HTN0263,58,Male,No,No,No,Yes,172,115,ARB,Good,148,101,No,2,2024-09-25
+HTN0264,66,Male,Yes,Yes,Yes,Yes,155,91,Thiazide Diuretic,Good,129,76,Yes,3,2024-08-25
+HTN0265,62,Female,Yes,Yes,Yes,No,171,109,Thiazide Diuretic,Good,141,91,No,3,2024-06-25
+HTN0266,40,Female,Yes,No,Yes,No,143,95,Beta Blocker,Good,121,82,Yes,6,2024-04-15
+HTN0267,47,Female,Yes,Yes,No,Yes,181,95,Beta Blocker,Good,159,82,No,3,2024-12-30
+HTN0268,75,Female,No,No,No,No,156,96,Thiazide Diuretic,Moderate,139,86,Yes,1,2024-09-18
+HTN0269,72,Female,No,No,Yes,No,144,100,Calcium Channel Blocker,Poor,140,98,No,6,2024-12-30
+HTN0270,71,Female,Yes,Yes,Yes,Yes,178,102,Combination Therapy,Moderate,162,93,No,3,2024-05-12
+HTN0271,56,Female,No,Yes,Yes,No,186,112,ARB,Poor,181,109,No,5,2024-06-02
+HTN0272,84,Male,Yes,No,Yes,No,148,113,Calcium Channel Blocker,Poor,143,110,No,6,2024-02-15
+HTN0273,44,Female,Yes,No,No,No,163,98,Beta Blocker,Moderate,154,93,No,1,2024-11-20
+HTN0274,67,Male,No,Yes,Yes,No,173,99,Thiazide Diuretic,Good,154,88,No,3,2024-07-28
+HTN0275,66,Female,Yes,No,Yes,Yes,171,100,Combination Therapy,Good,141,82,No,4,2024-05-20
+HTN0276,43,Male,Yes,No,Yes,Yes,179,103,Combination Therapy,Moderate,157,90,No,1,2024-01-20
+HTN0277,64,Male,No,Yes,No,Yes,141,111,ACE Inhibitor,Poor,136,108,No,3,2024-03-07
+HTN0278,36,Female,No,Yes,Yes,Yes,159,120,Calcium Channel Blocker,Moderate,145,112,No,2,2024-06-24
+HTN0279,61,Female,Yes,Yes,No,Yes,154,97,Combination Therapy,Good,124,79,Yes,2,2024-03-04
+HTN0280,53,Male,No,No,Yes,Yes,182,93,Combination Therapy,Good,158,79,No,4,2024-03-04
+HTN0281,65,Female,No,Yes,Yes,Yes,159,103,Combination Therapy,Good,126,84,Yes,2,2024-08-02
+HTN0282,83,Male,Yes,No,Yes,Yes,171,96,Beta Blocker,Good,148,83,No,3,2024-12-26
+HTN0283,56,Female,Yes,Yes,No,Yes,184,119,Thiazide Diuretic,Moderate,176,115,No,6,2024-02-15
+HTN0284,37,Female,Yes,Yes,Yes,Yes,156,110,ARB,Moderate,144,103,No,1,2024-02-21
+HTN0285,82,Male,Yes,No,No,No,167,113,ACE Inhibitor,Good,151,104,No,6,2024-11-27
+HTN0286,40,Female,No,No,No,Yes,163,116,Calcium Channel Blocker,Good,145,106,No,4,2024-05-19
+HTN0287,83,Female,No,No,Yes,Yes,148,112,Combination Therapy,Good,119,95,No,4,2024-10-18
+HTN0288,73,Female,Yes,No,No,Yes,183,118,Combination Therapy,Good,145,96,No,4,2024-01-24
+HTN0289,34,Female,No,Yes,Yes,No,173,106,Combination Therapy,Poor,153,94,No,2,2024-09-03
+HTN0290,52,Female,Yes,Yes,Yes,Yes,172,117,Thiazide Diuretic,Moderate,163,112,No,3,2024-05-03
+HTN0291,51,Female,Yes,Yes,No,No,155,92,Thiazide Diuretic,Moderate,146,87,No,4,2024-06-10
+HTN0292,37,Female,Yes,Yes,No,No,142,107,Beta Blocker,Good,125,97,No,6,2024-06-04
+HTN0293,62,Male,No,No,No,Yes,154,117,Thiazide Diuretic,Moderate,136,107,No,6,2024-08-19
+HTN0294,37,Male,Yes,Yes,No,No,180,120,Calcium Channel Blocker,Poor,180,120,No,2,2024-09-09
+HTN0295,38,Female,Yes,No,Yes,Yes,147,119,Thiazide Diuretic,Good,118,102,No,1,2024-07-31
+HTN0296,32,Male,No,No,Yes,No,140,106,Combination Therapy,Good,110,84,Yes,2,2024-12-20
+HTN0297,67,Male,Yes,Yes,No,No,172,118,Thiazide Diuretic,Moderate,160,111,No,3,2024-05-30
+HTN0298,58,Male,Yes,No,No,No,185,113,Beta Blocker,Poor,182,112,No,5,2024-12-31
+HTN0299,48,Female,Yes,Yes,No,Yes,188,101,Beta Blocker,Moderate,170,91,No,3,2024-08-04
+HTN0300,81,Male,Yes,Yes,No,Yes,143,111,ACE Inhibitor,Good,120,98,No,6,2024-05-08
+HTN0301,39,Male,No,Yes,Yes,No,168,93,Beta Blocker,Poor,160,89,No,4,2024-05-01
+HTN0302,62,Female,Yes,No,No,No,190,111,Calcium Channel Blocker,Poor,186,109,No,2,2024-11-13
+HTN0303,85,Female,Yes,No,Yes,Yes,158,104,ARB,Poor,156,103,No,6,2024-09-20
+HTN0304,37,Female,Yes,No,No,No,148,95,Beta Blocker,Moderate,135,88,Yes,6,2024-03-20
+HTN0305,32,Male,No,Yes,No,No,190,108,Beta Blocker,Moderate,177,101,No,2,2024-04-04
+HTN0306,63,Male,Yes,No,No,Yes,162,97,ARB,Poor,157,94,No,3,2024-04-21
+HTN0307,78,Female,Yes,Yes,No,No,155,118,Combination Therapy,Poor,138,108,No,4,2024-02-28
+HTN0308,54,Female,No,Yes,No,No,171,91,Calcium Channel Blocker,Poor,163,87,No,1,2024-02-19
+HTN0309,40,Male,Yes,Yes,Yes,No,146,96,Beta Blocker,Poor,145,96,No,6,2024-12-17
+HTN0310,39,Male,No,No,Yes,Yes,144,91,ARB,Moderate,127,81,Yes,3,2024-07-27
+HTN0311,54,Female,No,No,No,Yes,164,111,ACE Inhibitor,Poor,155,106,No,1,2024-10-26
+HTN0312,32,Male,No,Yes,No,No,178,92,Calcium Channel Blocker,Moderate,164,84,No,1,2024-08-30
+HTN0313,40,Male,Yes,No,No,Yes,159,111,Combination Therapy,Poor,142,101,No,2,2024-03-04
+HTN0314,32,Male,No,Yes,No,Yes,187,113,Combination Therapy,Moderate,164,100,No,2,2024-03-23
+HTN0315,41,Male,No,Yes,Yes,Yes,182,115,Beta Blocker,Good,153,98,No,1,2024-05-28
+HTN0316,72,Male,No,Yes,Yes,No,161,101,ARB,Poor,157,99,No,5,2024-02-05
+HTN0317,42,Female,No,No,No,No,184,108,ARB,Poor,178,105,No,2,2024-01-03
+HTN0318,50,Male,Yes,No,No,No,148,111,Combination Therapy,Moderate,126,98,No,3,2024-09-06
+HTN0319,65,Male,Yes,Yes,No,Yes,174,96,Calcium Channel Blocker,Poor,174,96,No,5,2024-11-19
+HTN0320,31,Female,Yes,Yes,No,No,181,114,ARB,Moderate,170,108,No,6,2024-05-28
+HTN0321,38,Female,Yes,No,No,Yes,182,97,Beta Blocker,Poor,180,96,No,4,2024-03-22
+HTN0322,41,Male,No,No,Yes,Yes,188,105,ARB,Good,165,92,No,1,2024-12-08
+HTN0323,43,Female,No,No,No,Yes,142,110,Calcium Channel Blocker,Good,119,97,No,5,2024-10-18
+HTN0324,41,Female,No,No,Yes,No,164,119,ARB,Poor,159,116,No,4,2024-09-03
+HTN0325,68,Male,Yes,No,Yes,Yes,144,106,Combination Therapy,Moderate,128,97,No,3,2024-11-04
+HTN0326,75,Male,Yes,No,No,Yes,170,111,Thiazide Diuretic,Moderate,153,101,No,6,2024-07-29
+HTN0327,31,Male,Yes,Yes,Yes,Yes,180,106,ACE Inhibitor,Poor,178,105,No,3,2024-04-02
+HTN0328,63,Female,Yes,No,Yes,Yes,168,109,Thiazide Diuretic,Moderate,157,103,No,5,2024-03-14
+HTN0329,80,Male,No,Yes,No,No,178,108,ACE Inhibitor,Good,151,92,No,1,2024-01-09
+HTN0330,42,Female,Yes,Yes,Yes,No,179,109,ACE Inhibitor,Poor,172,105,No,6,2024-03-07
+HTN0331,68,Male,No,No,No,Yes,184,106,Thiazide Diuretic,Good,154,88,No,5,2024-12-22
+HTN0332,66,Male,No,Yes,No,No,189,97,ACE Inhibitor,Moderate,177,90,No,1,2024-12-29
+HTN0333,77,Male,Yes,Yes,No,Yes,184,115,Calcium Channel Blocker,Moderate,175,110,No,4,2024-11-29
+HTN0334,67,Female,No,No,No,No,183,102,ARB,Moderate,173,96,No,5,2024-10-11
+HTN0335,60,Female,No,No,No,Yes,182,93,Combination Therapy,Good,147,72,No,5,2024-07-24
+HTN0336,80,Female,Yes,Yes,No,Yes,145,116,ARB,Moderate,136,111,No,3,2024-04-23
+HTN0337,53,Male,Yes,No,No,No,185,120,Beta Blocker,Good,165,108,No,4,2024-01-06
+HTN0338,42,Female,Yes,Yes,Yes,Yes,183,91,Calcium Channel Blocker,Good,168,82,No,3,2024-07-23
+HTN0339,52,Female,No,Yes,Yes,Yes,145,107,Calcium Channel Blocker,Poor,141,105,No,2,2024-11-06
+HTN0340,42,Female,No,Yes,No,Yes,166,106,ACE Inhibitor,Poor,162,104,No,3,2024-02-29
+HTN0341,81,Female,No,No,No,No,189,97,Calcium Channel Blocker,Moderate,172,87,No,4,2024-02-29
+HTN0342,46,Male,No,Yes,Yes,No,166,120,Calcium Channel Blocker,Poor,163,119,No,3,2024-02-17
+HTN0343,55,Female,Yes,Yes,No,No,162,96,Beta Blocker,Moderate,144,86,No,4,2024-04-12
+HTN0344,45,Male,No,Yes,Yes,Yes,155,116,Beta Blocker,Moderate,146,111,No,1,2024-12-12
+HTN0345,72,Female,Yes,Yes,No,No,179,100,Thiazide Diuretic,Poor,177,99,No,5,2024-05-23
+HTN0346,55,Male,Yes,Yes,No,No,174,91,Beta Blocker,Moderate,156,81,No,4,2024-03-02
+HTN0347,74,Female,No,Yes,Yes,Yes,164,108,ACE Inhibitor,Moderate,147,98,No,2,2024-10-07
+HTN0348,46,Male,No,No,No,No,151,105,Thiazide Diuretic,Good,123,89,Yes,4,2024-05-23
+HTN0349,58,Male,Yes,Yes,Yes,No,155,107,Thiazide Diuretic,Moderate,145,101,No,4,2024-01-05
+HTN0350,41,Female,No,Yes,No,No,159,98,Beta Blocker,Poor,158,98,No,6,2024-03-24
